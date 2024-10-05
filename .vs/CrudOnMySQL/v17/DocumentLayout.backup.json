@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01_LifeOfADeveloper\\12_dotCrudOnMySQL\\CrudOnMySQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36E45FFF-D657-4FDE-8E20-1C5B72E68C07}|CrudOnMySQL\\CrudOnMySQL.csproj|d:\\01_lifeofadeveloper\\12_dotcrudonmysql\\crudonmysql\\crudonmysql\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E45FFF-D657-4FDE-8E20-1C5B72E68C07}|CrudOnMySQL\\CrudOnMySQL.csproj|solutionrelative:crudonmysql\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E45FFF-D657-4FDE-8E20-1C5B72E68C07}|CrudOnMySQL\\CrudOnMySQL.csproj|d:\\01_lifeofadeveloper\\12_dotcrudonmysql\\crudonmysql\\crudonmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E45FFF-D657-4FDE-8E20-1C5B72E68C07}|CrudOnMySQL\\CrudOnMySQL.csproj|solutionrelative:crudonmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E45FFF-D657-4FDE-8E20-1C5B72E68C07}|CrudOnMySQL\\CrudOnMySQL.csproj|d:\\01_lifeofadeveloper\\12_dotcrudonmysql\\crudonmysql\\crudonmysql\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E45FFF-D657-4FDE-8E20-1C5B72E68C07}|CrudOnMySQL\\CrudOnMySQL.csproj|solutionrelative:crudonmysql\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E45FFF-D657-4FDE-8E20-1C5B72E68C07}|CrudOnMySQL\\CrudOnMySQL.csproj|d:\\01_lifeofadeveloper\\12_dotcrudonmysql\\crudonmysql\\crudonmysql\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E45FFF-D657-4FDE-8E20-1C5B72E68C07}|CrudOnMySQL\\CrudOnMySQL.csproj|solutionrelative:crudonmysql\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E45FFF-D657-4FDE-8E20-1C5B72E68C07}|CrudOnMySQL\\CrudOnMySQL.csproj|d:\\01_lifeofadeveloper\\12_dotcrudonmysql\\crudonmysql\\crudonmysql\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E45FFF-D657-4FDE-8E20-1C5B72E68C07}|CrudOnMySQL\\CrudOnMySQL.csproj|solutionrelative:crudonmysql\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E45FFF-D657-4FDE-8E20-1C5B72E68C07}|CrudOnMySQL\\CrudOnMySQL.csproj|d:\\01_lifeofadeveloper\\12_dotcrudonmysql\\crudonmysql\\crudonmysql\\migrations\\20241004150018_3nd migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E45FFF-D657-4FDE-8E20-1C5B72E68C07}|CrudOnMySQL\\CrudOnMySQL.csproj|solutionrelative:crudonmysql\\migrations\\20241004150018_3nd migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E45FFF-D657-4FDE-8E20-1C5B72E68C07}|CrudOnMySQL\\CrudOnMySQL.csproj|d:\\01_lifeofadeveloper\\12_dotcrudonmysql\\crudonmysql\\crudonmysql\\migrations\\20241004144025_2nd migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E45FFF-D657-4FDE-8E20-1C5B72E68C07}|CrudOnMySQL\\CrudOnMySQL.csproj|solutionrelative:crudonmysql\\migrations\\20241004144025_2nd migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateEmployeeDTO.cs",
+              "DocumentMoniker": "D:\\01_LifeOfADeveloper\\12_dotCrudOnMySQL\\CrudOnMySQL\\CrudOnMySQL\\Models\\UpdateEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "CrudOnMySQL\\Models\\UpdateEmployeeDTO.cs",
+              "ToolTip": "D:\\01_LifeOfADeveloper\\12_dotCrudOnMySQL\\CrudOnMySQL\\CrudOnMySQL\\Models\\UpdateEmployeeDTO.cs",
+              "RelativeToolTip": "CrudOnMySQL\\Models\\UpdateEmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:39:17.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEmployeeDTO.cs",
+              "DocumentMoniker": "D:\\01_LifeOfADeveloper\\12_dotCrudOnMySQL\\CrudOnMySQL\\CrudOnMySQL\\Models\\AddEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "CrudOnMySQL\\Models\\AddEmployeeDTO.cs",
+              "ToolTip": "D:\\01_LifeOfADeveloper\\12_dotCrudOnMySQL\\CrudOnMySQL\\CrudOnMySQL\\Models\\AddEmployeeDTO.cs",
+              "RelativeToolTip": "CrudOnMySQL\\Models\\AddEmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:50:48.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241004150018_3nd migration.cs",
+              "DocumentMoniker": "D:\\01_LifeOfADeveloper\\12_dotCrudOnMySQL\\CrudOnMySQL\\CrudOnMySQL\\Migrations\\20241004150018_3nd migration.cs",
+              "RelativeDocumentMoniker": "CrudOnMySQL\\Migrations\\20241004150018_3nd migration.cs",
+              "ToolTip": "D:\\01_LifeOfADeveloper\\12_dotCrudOnMySQL\\CrudOnMySQL\\CrudOnMySQL\\Migrations\\20241004150018_3nd migration.cs",
+              "RelativeToolTip": "CrudOnMySQL\\Migrations\\20241004150018_3nd migration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:00:18.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\01_LifeOfADeveloper\\12_dotCrudOnMySQL\\CrudOnMySQL\\CrudOnMySQL\\Program.cs",
+              "RelativeDocumentMoniker": "CrudOnMySQL\\Program.cs",
+              "ToolTip": "D:\\01_LifeOfADeveloper\\12_dotCrudOnMySQL\\CrudOnMySQL\\CrudOnMySQL\\Program.cs",
+              "RelativeToolTip": "CrudOnMySQL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:41:26.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\01_LifeOfADeveloper\\12_dotCrudOnMySQL\\CrudOnMySQL\\CrudOnMySQL\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "CrudOnMySQL\\Models\\Entities\\Employee.cs",
+              "ToolTip": "D:\\01_LifeOfADeveloper\\12_dotCrudOnMySQL\\CrudOnMySQL\\CrudOnMySQL\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "CrudOnMySQL\\Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:39:03.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\01_LifeOfADeveloper\\12_dotCrudOnMySQL\\CrudOnMySQL\\CrudOnMySQL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CrudOnMySQL\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\01_LifeOfADeveloper\\12_dotCrudOnMySQL\\CrudOnMySQL\\CrudOnMySQL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CrudOnMySQL\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:12:39.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241004144025_2nd migration.cs",
+              "DocumentMoniker": "D:\\01_LifeOfADeveloper\\12_dotCrudOnMySQL\\CrudOnMySQL\\CrudOnMySQL\\Migrations\\20241004144025_2nd migration.cs",
+              "RelativeDocumentMoniker": "CrudOnMySQL\\Migrations\\20241004144025_2nd migration.cs",
+              "ToolTip": "D:\\01_LifeOfADeveloper\\12_dotCrudOnMySQL\\CrudOnMySQL\\CrudOnMySQL\\Migrations\\20241004144025_2nd migration.cs",
+              "RelativeToolTip": "CrudOnMySQL\\Migrations\\20241004144025_2nd migration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:40:25.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
